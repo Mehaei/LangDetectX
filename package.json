@@ -1,0 +1,7 @@
+{
+  "name": "langdetectx",
+  "version": "1.0.0",
+  "description": "Lightweight language detector for text and programming code.",
+  "author": "Mehaei",
+  "license": "MIT"
+}
